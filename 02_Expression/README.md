@@ -7,6 +7,9 @@ All programs were coded in Visual Studio Code and push to Github.
 ## The Journey So Far
 
 01. EU to US Elevator Floor Conversion
+02. Welcome Message
+03. Hour and Rate
+04. Value and Type of Input
 
 ### Course information
 Scientific Computing with Python
